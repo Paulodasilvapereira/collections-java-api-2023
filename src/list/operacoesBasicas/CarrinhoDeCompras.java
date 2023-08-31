@@ -75,7 +75,7 @@ public class CarrinhoDeCompras {
         carrinhoDeCompras.removerItem("Caderno");
         carrinhoDeCompras.exibirItens();
         carrinhoDeCompras.quantidadeTotal();
-        System.out.println("O valor total da compra é = " + carrinhoDeCompras.calcularValorTotal());
+        System.out.println("O valor total das compras é = " + carrinhoDeCompras.calcularValorTotal());
     }
 
 }
